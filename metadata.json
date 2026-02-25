@@ -1,0 +1,7 @@
+{
+  "name": "NeuroSync AI",
+  "description": "A comprehensive neuro-health platform tracking mood, cognitive function, and brain-state proxies using AI-driven multimodal data analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
